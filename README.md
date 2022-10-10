@@ -1,7 +1,3 @@
-# 👋 Hi, There!
-
-<br>
-
 ## 💡 Contact Me
 
 <a href="https://k2eo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-abffec?style=flat&logo=Tistory&logoColor=black"/></a>
