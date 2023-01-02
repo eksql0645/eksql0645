@@ -16,7 +16,5 @@
 <br>
 
 ## 📜 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=eksql0645)](https://github.com/ryo-ma/github-profile-trophy)
-
-<span><img src="https://github-readme-stats.vercel.app/api?username=eksql0645&show_icons=true&theme=buefy" /></span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eksql0645&layout=compact"/></span> <p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feksql0645%2Fhit-counter&count_bg=%23B8DDFF&title_bg=%23FFBAD7&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false"/></a></p>
+<span><img src="https://github-readme-stats.vercel.app/api?username=eksql0645&show_icons=true&count_private=true"/></span>
+<p align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feksql0645%2Fhit-counter&count_bg=%23B8DDFF&title_bg=%23FFBAD7&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false"/></a></p>
