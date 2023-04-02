@@ -1,10 +1,3 @@
-## 💡 Contact Me
-
-<a href="https://k2eo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-abffec?style=flat&logo=Tistory&logoColor=black"/></a>
-<a href="mailto:eksql0645@gmail.com"><img src="https://img.shields.io/badge/eksql0645@gmail.com-fff6a8?style=flat&logo=Gmail&logoColor=Red&link=eksql0645@gmail.com"/></a>
-
-<br>
-
 ## 💪Skills
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/> 
